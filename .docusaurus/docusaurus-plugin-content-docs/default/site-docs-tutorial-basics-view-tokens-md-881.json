@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/view-tokens",
+  "title": "view tokens",
+  "description": "select the tokens tab to view holdings",
+  "source": "@site/docs/tutorial-basics/view-tokens.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/view-tokens",
+  "permalink": "/docs/tutorial-basics/view-tokens",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/tutorial-basics/view-tokens.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "create a search",
+    "permalink": "/docs/tutorial-basics/create-a-search"
+  },
+  "next": {
+    "title": "connect a wallet",
+    "permalink": "/docs/tutorial-basics/connect-a-wallet"
+  }
+}

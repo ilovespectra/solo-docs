@@ -1,0 +1,68 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/docs/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/connect-a-wallet",
+              "path": "/docs/tutorial-basics/connect-a-wallet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-search",
+              "path": "/docs/tutorial-basics/create-a-search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/view-assets",
+              "path": "/docs/tutorial-basics/view-assets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/view-token",
+              "path": "/docs/tutorial-basics/view-token",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/view-tokens",
+              "path": "/docs/tutorial-basics/view-tokens",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/docs/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "tutorial intro",
+  "description": "let's discover solo explorer in less than 5 minutes.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "tutorial - basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/view-token",
+  "title": "view token",
+  "description": "comment on specific tokens or nfts",
+  "source": "@site/docs/tutorial-basics/view-token.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/view-token",
+  "permalink": "/docs/tutorial-basics/view-token",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/tutorial-basics/view-token.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "view assets",
+    "permalink": "/docs/tutorial-basics/view-assets"
+  },
+  "next": {
+    "title": "congratulations!",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  }
+}

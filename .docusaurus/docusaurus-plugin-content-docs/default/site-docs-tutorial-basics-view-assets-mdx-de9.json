@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/view-assets",
+  "title": "view assets",
+  "description": "in the assets tab, and leave comments the same way.",
+  "source": "@site/docs/tutorial-basics/view-assets.mdx",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/view-assets",
+  "permalink": "/docs/tutorial-basics/view-assets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/tutorial-basics/view-assets.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "connect a wallet",
+    "permalink": "/docs/tutorial-basics/connect-a-wallet"
+  },
+  "next": {
+    "title": "view token",
+    "permalink": "/docs/tutorial-basics/view-token"
+  }
+}

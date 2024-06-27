@@ -1,0 +1,23 @@
+{
+  "id": "tutorial-basics/congratulations",
+  "title": "congratulations!",
+  "description": "you have just learned the basics of solo and made some comments using your pubkey.",
+  "source": "@site/docs/tutorial-basics/congratulations.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/congratulations",
+  "permalink": "/docs/tutorial-basics/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/tutorial-basics/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "view token",
+    "permalink": "/docs/tutorial-basics/view-token"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/connect-a-wallet",
+  "title": "connect a wallet",
+  "description": "connect a wallet to view comment entry field",
+  "source": "@site/docs/tutorial-basics/connect-a-wallet.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/connect-a-wallet",
+  "permalink": "/docs/tutorial-basics/connect-a-wallet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/tutorial-basics/connect-a-wallet.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "view tokens",
+    "permalink": "/docs/tutorial-basics/view-tokens"
+  },
+  "next": {
+    "title": "view assets",
+    "permalink": "/docs/tutorial-basics/view-assets"
+  }
+}

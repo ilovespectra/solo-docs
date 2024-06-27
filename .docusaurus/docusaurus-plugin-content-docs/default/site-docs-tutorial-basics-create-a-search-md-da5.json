@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/create-a-search",
+  "title": "create a search",
+  "description": "enter any address, token, pubkey, account, or transaction signature id and press enter",
+  "source": "@site/docs/tutorial-basics/create-a-search.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-search",
+  "permalink": "/docs/tutorial-basics/create-a-search",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/tutorial-basics/create-a-search.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tutorial - basics",
+    "permalink": "/docs/category/tutorial---basics"
+  },
+  "next": {
+    "title": "view tokens",
+    "permalink": "/docs/tutorial-basics/view-tokens"
+  }
+}
