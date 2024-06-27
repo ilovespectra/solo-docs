@@ -8,9 +8,9 @@ you have just learned the **basics of solo** and made some comments using your *
 
 solo has **much more to offer**!
 
-have **5 more minutes**? take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n]
+have **5 more minutes**?
 
-Anything **unclear** or **buggy** in this tutorial? [please report it!](https://github.com/ilovespectra/solo-docs/discussions/)
+anything **unclear** or **buggy** in this tutorial? [please report it!](https://github.com/ilovespectra)
 
 ## what's next?
 
