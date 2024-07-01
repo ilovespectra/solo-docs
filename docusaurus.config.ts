@@ -73,7 +73,7 @@ const config: Config = {
         {to: '/blog', label: 'blog', position: 'left'},
         {
           href: 'https://github.com/ilovespectra/solo-explorer',
-          label: 'gitHub',
+          label: 'github',
           position: 'right',
         },
       ],
