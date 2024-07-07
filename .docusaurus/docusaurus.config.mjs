@@ -61,7 +61,7 @@ export default {
         },
         {
           "href": "https://github.com/ilovespectra/solo-explorer",
-          "label": "gitHub",
+          "label": "github",
           "position": "right"
         }
       ],
@@ -305,7 +305,7 @@ export default {
       ]
     },
     "colorMode": {
-      "defaultMode": "light",
+      "defaultMode": "dark",
       "disableSwitch": false,
       "respectPrefersColorScheme": false
     },

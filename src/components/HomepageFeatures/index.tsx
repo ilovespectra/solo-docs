@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('../HomepageFeatures/public/notes.svg').default,
     description: (
       <>
-        solo explorer allows you to take notes and comment on tokens, transactions,
+        solo explorer allows you to take notes and make comments on tokens, transactions,
         and accounts that only you can see.
       </>
     ),

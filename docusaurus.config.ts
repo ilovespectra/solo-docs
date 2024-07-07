@@ -127,6 +127,11 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false, // Set to true if you don't want the color mode switch
+      respectPrefersColorScheme: false,
+    },
   } satisfies Preset.ThemeConfig,
 };
 
