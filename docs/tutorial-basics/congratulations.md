@@ -8,8 +8,6 @@ you have just learned the **basics of solo** and made some comments using your *
 
 solo has **much more to offer**!
 
-have **5 more minutes**?
-
 anything **unclear** or **buggy** in this tutorial? [please report it!](https://github.com/ilovespectra)
 
 ## what's next?
