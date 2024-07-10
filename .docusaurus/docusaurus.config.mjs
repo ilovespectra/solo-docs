@@ -55,11 +55,6 @@ export default {
           "label": "tutorial"
         },
         {
-          "to": "/blog",
-          "label": "blog",
-          "position": "left"
-        },
-        {
           "href": "https://github.com/ilovespectra/solo-explorer",
           "label": "github",
           "position": "right"
