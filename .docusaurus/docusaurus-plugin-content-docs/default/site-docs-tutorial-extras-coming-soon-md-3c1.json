@@ -1,0 +1,20 @@
+{
+  "id": "tutorial-extras/coming-soon",
+  "title": "coming soon",
+  "description": "solo: is building, keep an eye out here for updates on exciting developments!",
+  "source": "@site/docs/tutorial-extras/coming-soon.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/coming-soon",
+  "permalink": "/docs/tutorial-extras/coming-soon",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/tutorial-extras/coming-soon.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "congratulations!",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  }
+}

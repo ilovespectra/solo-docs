@@ -19,5 +19,9 @@
   "previous": {
     "title": "view token",
     "permalink": "/docs/tutorial-basics/view-token"
+  },
+  "next": {
+    "title": "coming soon",
+    "permalink": "/docs/extras/coming-soon"
   }
 }

@@ -84,19 +84,25 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '3d8'),
+    component: ComponentCreator('/docs', 'f35'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '1f5'),
+        component: ComponentCreator('/docs', '19a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '154'),
+            component: ComponentCreator('/docs', 'df9'),
             routes: [
               {
                 path: '/docs/category/tutorial---basics',
                 component: ComponentCreator('/docs/category/tutorial---basics', '20e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/extras/coming-soon',
+                component: ComponentCreator('/docs/extras/coming-soon', '416'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
