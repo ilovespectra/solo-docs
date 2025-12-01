@@ -1,0 +1,29 @@
+{
+  "id": "solo-swap/getting-started",
+  "title": "getting started",
+  "description": "connect your wallet and set up solo-swap",
+  "source": "@site/docs/solo-swap/getting-started.md",
+  "sourceDirName": "solo-swap",
+  "slug": "/solo-swap/getting-started",
+  "permalink": "/docs/solo-swap/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/solo-swap/getting-started.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "getting started",
+    "description": "connect your wallet and set up solo-swap"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "overview",
+    "permalink": "/docs/solo-swap/overview"
+  },
+  "next": {
+    "title": "single wallet swapping",
+    "permalink": "/docs/solo-swap/single-wallet"
+  }
+}

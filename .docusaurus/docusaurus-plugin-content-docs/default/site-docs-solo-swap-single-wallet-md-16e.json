@@ -1,0 +1,29 @@
+{
+  "id": "solo-swap/single-wallet",
+  "title": "single wallet swapping",
+  "description": "how to use solo-swap with a single wallet",
+  "source": "@site/docs/solo-swap/single-wallet.md",
+  "sourceDirName": "solo-swap",
+  "slug": "/solo-swap/single-wallet",
+  "permalink": "/docs/solo-swap/single-wallet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/solo-swap/single-wallet.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "single wallet swapping",
+    "description": "how to use solo-swap with a single wallet"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "getting started",
+    "permalink": "/docs/solo-swap/getting-started"
+  },
+  "next": {
+    "title": "multi-wallet functionality",
+    "permalink": "/docs/solo-swap/multi-wallet"
+  }
+}

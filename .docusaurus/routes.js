@@ -84,16 +84,22 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'f35'),
+    component: ComponentCreator('/docs', 'ed7'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '19a'),
+        component: ComponentCreator('/docs', '78f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'df9'),
+            component: ComponentCreator('/docs', '714'),
             routes: [
+              {
+                path: '/docs/category/solo-swap',
+                component: ComponentCreator('/docs/category/solo-swap', 'c82'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/category/tutorial---basics',
                 component: ComponentCreator('/docs/category/tutorial---basics', '20e'),
@@ -101,14 +107,38 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/extras/coming-soon',
-                component: ComponentCreator('/docs/extras/coming-soon', '416'),
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', '61d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/docs/solo-swap/advanced-features',
+                component: ComponentCreator('/docs/solo-swap/advanced-features', 'be0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/solo-swap/getting-started',
+                component: ComponentCreator('/docs/solo-swap/getting-started', '831'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/solo-swap/multi-wallet',
+                component: ComponentCreator('/docs/solo-swap/multi-wallet', '79d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/solo-swap/overview',
+                component: ComponentCreator('/docs/solo-swap/overview', '11b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/solo-swap/single-wallet',
+                component: ComponentCreator('/docs/solo-swap/single-wallet', 'fc9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

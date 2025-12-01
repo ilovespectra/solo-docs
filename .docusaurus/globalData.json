@@ -11,13 +11,33 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "extras/coming-soon",
-              "path": "/docs/extras/coming-soon",
+              "id": "intro",
+              "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
-              "path": "/docs/intro",
+              "id": "solo-swap/advanced-features",
+              "path": "/docs/solo-swap/advanced-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "solo-swap/getting-started",
+              "path": "/docs/solo-swap/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "solo-swap/multi-wallet",
+              "path": "/docs/solo-swap/multi-wallet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "solo-swap/overview",
+              "path": "/docs/solo-swap/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "solo-swap/single-wallet",
+              "path": "/docs/solo-swap/single-wallet",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -53,6 +73,11 @@
             {
               "id": "/category/tutorial---basics",
               "path": "/docs/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/solo-swap",
+              "path": "/docs/category/solo-swap",
               "sidebar": "tutorialSidebar"
             }
           ],

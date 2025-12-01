@@ -1,0 +1,25 @@
+{
+  "id": "solo-swap/advanced-features",
+  "title": "advanced features",
+  "description": "advanced configuration and optimization",
+  "source": "@site/docs/solo-swap/advanced-features.md",
+  "sourceDirName": "solo-swap",
+  "slug": "/solo-swap/advanced-features",
+  "permalink": "/docs/solo-swap/advanced-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/solo-swap/advanced-features.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "advanced features",
+    "description": "advanced configuration and optimization"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "multi-wallet functionality",
+    "permalink": "/docs/solo-swap/multi-wallet"
+  }
+}

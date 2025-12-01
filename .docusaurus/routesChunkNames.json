@@ -144,30 +144,50 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-f35": {
+  "/docs-ed7": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-19a": {
+  "/docs-78f": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-df9": {
+  "/docs-714": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/category/solo-swap-c82": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-solo-swapa-72-565"
   },
   "/docs/category/tutorial---basics-20e": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-tutorial-basicsc-8-a-e51"
   },
-  "/docs/extras/coming-soon-416": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-extras-coming-soon-9-a-1-431"
-  },
   "/docs/intro-61d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/solo-swap/advanced-features-be0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-solo-swap-advanced-features-232-2a3"
+  },
+  "/docs/solo-swap/getting-started-831": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-solo-swap-getting-started-884-338"
+  },
+  "/docs/solo-swap/multi-wallet-79d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-solo-swap-multi-walletbc-7-bd7"
+  },
+  "/docs/solo-swap/overview-11b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-solo-swap-overview-9-e-1-52c"
+  },
+  "/docs/solo-swap/single-wallet-fc9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-solo-swap-single-wallet-16-e-1d2"
   },
   "/docs/tutorial-basics/congratulations-458": {
     "__comp": "__comp---theme-doc-item-178-a40",

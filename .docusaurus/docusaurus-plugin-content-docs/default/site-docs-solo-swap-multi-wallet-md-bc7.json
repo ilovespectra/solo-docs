@@ -1,0 +1,29 @@
+{
+  "id": "solo-swap/multi-wallet",
+  "title": "multi-wallet functionality",
+  "description": "create swapping lists from multiple wallets simultaneously",
+  "source": "@site/docs/solo-swap/multi-wallet.md",
+  "sourceDirName": "solo-swap",
+  "slug": "/solo-swap/multi-wallet",
+  "permalink": "/docs/solo-swap/multi-wallet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/solo-swap/multi-wallet.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "multi-wallet functionality",
+    "description": "create swapping lists from multiple wallets simultaneously"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "single wallet swapping",
+    "permalink": "/docs/solo-swap/single-wallet"
+  },
+  "next": {
+    "title": "advanced features",
+    "permalink": "/docs/solo-swap/advanced-features"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "solo-swap",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "pro-rata swapping on solana."
+  }
+}
