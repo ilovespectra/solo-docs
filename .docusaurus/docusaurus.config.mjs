@@ -93,7 +93,7 @@ export default {
           ]
         }
       ],
-      "copyright": "copyright © 2025 solo explorer"
+      "copyright": "copyright © 2026 solo explorer"
     },
     "prism": {
       "theme": {

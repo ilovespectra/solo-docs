@@ -1,0 +1,29 @@
+{
+  "id": "solo-silo/animals-objects",
+  "title": "animals & objects",
+  "description": "detect and search for animals and objects",
+  "source": "@site/docs/solo-silo/animals-objects.md",
+  "sourceDirName": "solo-silo",
+  "slug": "/solo-silo/animals-objects",
+  "permalink": "/docs/solo-silo/animals-objects",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/solo-silo/animals-objects.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "animals & objects",
+    "description": "detect and search for animals and objects"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "face recognition",
+    "permalink": "/docs/solo-silo/face-recognition"
+  },
+  "next": {
+    "title": "settings & database",
+    "permalink": "/docs/solo-silo/settings-database"
+  }
+}

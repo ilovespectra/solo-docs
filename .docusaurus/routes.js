@@ -84,16 +84,22 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ed7'),
+    component: ComponentCreator('/docs', 'a80'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '78f'),
+        component: ComponentCreator('/docs', 'e2a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '714'),
+            component: ComponentCreator('/docs', 'b84'),
             routes: [
+              {
+                path: '/docs/category/solo-silo',
+                component: ComponentCreator('/docs/category/solo-silo', '837'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/category/solo-swap',
                 component: ComponentCreator('/docs/category/solo-swap', 'c82'),
@@ -109,6 +115,66 @@ export default [
               {
                 path: '/docs/intro',
                 component: ComponentCreator('/docs/intro', '61d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/solo-silo/adding-sources',
+                component: ComponentCreator('/docs/solo-silo/adding-sources', 'c04'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/solo-silo/animals-objects',
+                component: ComponentCreator('/docs/solo-silo/animals-objects', 'cc0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/solo-silo/contributing',
+                component: ComponentCreator('/docs/solo-silo/contributing', '446'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/solo-silo/face-recognition',
+                component: ComponentCreator('/docs/solo-silo/face-recognition', 'c76'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/solo-silo/getting-started',
+                component: ComponentCreator('/docs/solo-silo/getting-started', '135'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/solo-silo/managing-silos',
+                component: ComponentCreator('/docs/solo-silo/managing-silos', '2cf'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/solo-silo/overview',
+                component: ComponentCreator('/docs/solo-silo/overview', '7a6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/solo-silo/semantic-search',
+                component: ComponentCreator('/docs/solo-silo/semantic-search', '813'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/solo-silo/settings-database',
+                component: ComponentCreator('/docs/solo-silo/settings-database', 'bd9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/solo-silo/troubleshooting',
+                component: ComponentCreator('/docs/solo-silo/troubleshooting', 'ee8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

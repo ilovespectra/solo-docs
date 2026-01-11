@@ -16,6 +16,56 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "solo-silo/adding-sources",
+              "path": "/docs/solo-silo/adding-sources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "solo-silo/animals-objects",
+              "path": "/docs/solo-silo/animals-objects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "solo-silo/contributing",
+              "path": "/docs/solo-silo/contributing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "solo-silo/face-recognition",
+              "path": "/docs/solo-silo/face-recognition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "solo-silo/getting-started",
+              "path": "/docs/solo-silo/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "solo-silo/managing-silos",
+              "path": "/docs/solo-silo/managing-silos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "solo-silo/overview",
+              "path": "/docs/solo-silo/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "solo-silo/semantic-search",
+              "path": "/docs/solo-silo/semantic-search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "solo-silo/settings-database",
+              "path": "/docs/solo-silo/settings-database",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "solo-silo/troubleshooting",
+              "path": "/docs/solo-silo/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "solo-swap/advanced-features",
               "path": "/docs/solo-swap/advanced-features",
               "sidebar": "tutorialSidebar"
@@ -68,6 +118,11 @@
             {
               "id": "tutorial-basics/view-tokens",
               "path": "/docs/tutorial-basics/view-tokens",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/solo-silo",
+              "path": "/docs/category/solo-silo",
               "sidebar": "tutorialSidebar"
             },
             {

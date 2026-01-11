@@ -1,0 +1,29 @@
+{
+  "id": "solo-silo/getting-started",
+  "title": "getting started",
+  "description": "install and set up solo-silo",
+  "source": "@site/docs/solo-silo/getting-started.md",
+  "sourceDirName": "solo-silo",
+  "slug": "/solo-silo/getting-started",
+  "permalink": "/docs/solo-silo/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/solo-silo/getting-started.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "getting started",
+    "description": "install and set up solo-silo"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "overview",
+    "permalink": "/docs/solo-silo/overview"
+  },
+  "next": {
+    "title": "adding sources",
+    "permalink": "/docs/solo-silo/adding-sources"
+  }
+}

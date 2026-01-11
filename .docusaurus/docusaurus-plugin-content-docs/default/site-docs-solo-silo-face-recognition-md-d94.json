@@ -1,0 +1,29 @@
+{
+  "id": "solo-silo/face-recognition",
+  "title": "face recognition",
+  "description": "automatic face detection and clustering",
+  "source": "@site/docs/solo-silo/face-recognition.md",
+  "sourceDirName": "solo-silo",
+  "slug": "/solo-silo/face-recognition",
+  "permalink": "/docs/solo-silo/face-recognition",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/solo-silo/face-recognition.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "face recognition",
+    "description": "automatic face detection and clustering"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "semantic search",
+    "permalink": "/docs/solo-silo/semantic-search"
+  },
+  "next": {
+    "title": "animals & objects",
+    "permalink": "/docs/solo-silo/animals-objects"
+  }
+}

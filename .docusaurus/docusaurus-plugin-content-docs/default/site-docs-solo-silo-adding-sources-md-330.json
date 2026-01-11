@@ -1,0 +1,29 @@
+{
+  "id": "solo-silo/adding-sources",
+  "title": "adding sources",
+  "description": "configure and index your photo libraries",
+  "source": "@site/docs/solo-silo/adding-sources.md",
+  "sourceDirName": "solo-silo",
+  "slug": "/solo-silo/adding-sources",
+  "permalink": "/docs/solo-silo/adding-sources",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/solo-silo/adding-sources.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "adding sources",
+    "description": "configure and index your photo libraries"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "getting started",
+    "permalink": "/docs/solo-silo/getting-started"
+  },
+  "next": {
+    "title": "managing silos",
+    "permalink": "/docs/solo-silo/managing-silos"
+  }
+}

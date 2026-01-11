@@ -1,0 +1,29 @@
+{
+  "id": "solo-silo/semantic-search",
+  "title": "semantic search",
+  "description": "find photos using natural language",
+  "source": "@site/docs/solo-silo/semantic-search.md",
+  "sourceDirName": "solo-silo",
+  "slug": "/solo-silo/semantic-search",
+  "permalink": "/docs/solo-silo/semantic-search",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/solo-silo/semantic-search.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "semantic search",
+    "description": "find photos using natural language"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "managing silos",
+    "permalink": "/docs/solo-silo/managing-silos"
+  },
+  "next": {
+    "title": "face recognition",
+    "permalink": "/docs/solo-silo/face-recognition"
+  }
+}

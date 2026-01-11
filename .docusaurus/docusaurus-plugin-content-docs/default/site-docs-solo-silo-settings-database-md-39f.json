@@ -1,0 +1,29 @@
+{
+  "id": "solo-silo/settings-database",
+  "title": "settings & database",
+  "description": "configure silo and manage your database",
+  "source": "@site/docs/solo-silo/settings-database.md",
+  "sourceDirName": "solo-silo",
+  "slug": "/solo-silo/settings-database",
+  "permalink": "/docs/solo-silo/settings-database",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/solo-silo/settings-database.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "settings & database",
+    "description": "configure silo and manage your database"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "animals & objects",
+    "permalink": "/docs/solo-silo/animals-objects"
+  },
+  "next": {
+    "title": "contributing",
+    "permalink": "/docs/solo-silo/contributing"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "solo-silo/contributing",
+  "title": "contributing",
+  "description": "contribute to solo-silo development",
+  "source": "@site/docs/solo-silo/contributing.md",
+  "sourceDirName": "solo-silo",
+  "slug": "/solo-silo/contributing",
+  "permalink": "/docs/solo-silo/contributing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/solo-silo/contributing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "contributing",
+    "description": "contribute to solo-silo development"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "settings & database",
+    "permalink": "/docs/solo-silo/settings-database"
+  },
+  "next": {
+    "title": "troubleshooting",
+    "permalink": "/docs/solo-silo/troubleshooting"
+  }
+}

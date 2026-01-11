@@ -1,0 +1,29 @@
+{
+  "id": "solo-silo/troubleshooting",
+  "title": "troubleshooting",
+  "description": "common issues and solutions",
+  "source": "@site/docs/solo-silo/troubleshooting.md",
+  "sourceDirName": "solo-silo",
+  "slug": "/solo-silo/troubleshooting",
+  "permalink": "/docs/solo-silo/troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/solo-silo/troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "title": "troubleshooting",
+    "description": "common issues and solutions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "contributing",
+    "permalink": "/docs/solo-silo/contributing"
+  },
+  "next": {
+    "title": "tutorial - basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

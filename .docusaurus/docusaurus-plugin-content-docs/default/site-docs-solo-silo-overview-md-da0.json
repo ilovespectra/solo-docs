@@ -1,0 +1,29 @@
+{
+  "id": "solo-silo/overview",
+  "title": "overview",
+  "description": "introduction to solo-silo - offline ai-powered photo management",
+  "source": "@site/docs/solo-silo/overview.md",
+  "sourceDirName": "solo-silo",
+  "slug": "/solo-silo/overview",
+  "permalink": "/docs/solo-silo/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/solo-silo/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "overview",
+    "description": "introduction to solo-silo - offline ai-powered photo management"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "solo-silo",
+    "permalink": "/docs/category/solo-silo"
+  },
+  "next": {
+    "title": "getting started",
+    "permalink": "/docs/solo-silo/getting-started"
+  }
+}

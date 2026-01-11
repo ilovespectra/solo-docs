@@ -144,18 +144,22 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-ed7": {
+  "/docs-a80": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-78f": {
+  "/docs-e2a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-714": {
+  "/docs-b84": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/category/solo-silo-837": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-solo-silo-62-b-cde"
   },
   "/docs/category/solo-swap-c82": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -168,6 +172,46 @@
   "/docs/intro-61d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/solo-silo/adding-sources-c04": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-solo-silo-adding-sources-330-362"
+  },
+  "/docs/solo-silo/animals-objects-cc0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-solo-silo-animals-objectsf-2-f-2ed"
+  },
+  "/docs/solo-silo/contributing-446": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-solo-silo-contributing-52-b-de7"
+  },
+  "/docs/solo-silo/face-recognition-c76": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-solo-silo-face-recognitiond-94-ca6"
+  },
+  "/docs/solo-silo/getting-started-135": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-solo-silo-getting-started-8-b-8-64d"
+  },
+  "/docs/solo-silo/managing-silos-2cf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-solo-silo-managing-silos-207-6fd"
+  },
+  "/docs/solo-silo/overview-7a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-solo-silo-overviewda-0-655"
+  },
+  "/docs/solo-silo/semantic-search-813": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-solo-silo-semantic-search-665-095"
+  },
+  "/docs/solo-silo/settings-database-bd9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-solo-silo-settings-database-39-f-ece"
+  },
+  "/docs/solo-silo/troubleshooting-ee8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-solo-silo-troubleshooting-94-b-db3"
   },
   "/docs/solo-swap/advanced-features-be0": {
     "__comp": "__comp---theme-doc-item-178-a40",

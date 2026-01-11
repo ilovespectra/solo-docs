@@ -1,0 +1,29 @@
+{
+  "id": "solo-silo/managing-silos",
+  "title": "managing silos",
+  "description": "organize your photo collections with multiple silos",
+  "source": "@site/docs/solo-silo/managing-silos.md",
+  "sourceDirName": "solo-silo",
+  "slug": "/solo-silo/managing-silos",
+  "permalink": "/docs/solo-silo/managing-silos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://soloexplorer.xyz/docs/solo-silo/managing-silos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "managing silos",
+    "description": "organize your photo collections with multiple silos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "adding sources",
+    "permalink": "/docs/solo-silo/adding-sources"
+  },
+  "next": {
+    "title": "semantic search",
+    "permalink": "/docs/solo-silo/semantic-search"
+  }
+}
